@@ -1,0 +1,26 @@
+body {
+	margin: 0;
+	padding: auto;
+}
+
+.container {
+	justify-content: center;
+	text-align: center;
+	padding: 10px;
+	background-color: lightblue;
+	margin-top: 100px;
+	border-radius: 10px;
+}
+
+.text {
+	border-radius: 10px;
+}
+
+.bombo {
+	justify-content: space-around;
+}
+
+.photo {
+	width: 100px;
+	border-radius: 10px;
+}
